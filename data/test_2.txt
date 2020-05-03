@@ -1,0 +1,2 @@
+C:/Users/user_name/Documents/yolov3/images/mirrorIMG_20200424_123409.jpg
+C:/Users/user_name/Documents/yolov3/images/rotate_IMG_20200424_123143.jpg

@@ -1,0 +1,4 @@
+C:/Users/user_name/Documents/yolov3/images/all_1.jpg
+C:/Users/user_name/Documents/yolov3/images/all_2.jpg
+C:/Users/user_name/Documents/yolov3/images/all_3.jpg
+C:/Users/user_name/Documents/yolov3/images/IMG_20200424_122812.jpg

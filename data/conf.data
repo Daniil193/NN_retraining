@@ -1,0 +1,4 @@
+classes=3
+train=C:/Users/DS/Documents/WORFOLDER_FROM_C_DISK/FOR_ARTICLE/NN_retraining/yolov3/data/train_112.txt
+valid=C:/Users/DS/Documents/WORFOLDER_FROM_C_DISK/FOR_ARTICLE/NN_retraining/yolov3/data/test_24.txt
+names=C:/Users/DS/Documents/WORFOLDER_FROM_C_DISK/FOR_ARTICLE/NN_retraining/yolov3/data/objects.names
